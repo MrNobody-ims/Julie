@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="https://wallpapersmug.com/download/2048x1152/d94eb4/game-character-beautiful-queen-anime.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
